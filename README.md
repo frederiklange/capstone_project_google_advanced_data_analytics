@@ -2,11 +2,10 @@
 This capstone project, completed as part of the Google Advanced Data Analytics course, aims to analyze employee data to predict turnover within the company Salifort Motors. The goal is to provide the HR department with actionable insights to improve employee satisfaction and retention.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Installation](#installation)
-- [Dataset](#dataset)
+- [Data set](#dataset)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling and Evaluation](#modeling)
+- [Modeling and Evaluation](#modeling-and-evaluation)
 - [Conclusion](#conclusion)
 
 ## Installation
@@ -16,7 +15,7 @@ The project has been completed in Python version 3.12.3. To install the necessar
 pip install -r requirements.txt
 ```
 
-## Dataset
+## Data set
 The dataset used for the project contains 15,000 rows and 10 columns for the variables listed below. For more information about the data, refer to its source on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
 
 Variable  |Description |
